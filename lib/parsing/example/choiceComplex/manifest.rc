@@ -1,0 +1,2 @@
+### [{"sound": "sound1.ogg","keyword": ["是"],"backline":"-1"},{"sound": "sound2.ogg","keyword": ["不"],"backline":"-1"},{"sound": "sound3.ogg","backline":"-1","default":true,"keyword": ["看看"]}]
+[{ "sound": "moren4.ogg","keyword":["没有准备好","没有","没有好","没","等等"],"var":"flag2.ogg"},{ "sound": "one-2-1.ogg","default":true,"keyword": ["但是"],"var":"flag2-1.ogg"}]

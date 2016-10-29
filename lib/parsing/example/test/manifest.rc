@@ -1,0 +1,179 @@
+begin-title.ogg
+this-story-begin-music.ogg
+
+$paragraph
+one-begin.ogg
+###choose-jump2.ogg
+one-1-1.ogg
+{"hudong1-1.ogg":["乌鸦"],"one-1-2.ogg":[""]} null.ogg
+hudong1-1.ogg one-1-2.ogg
+{"null.ogg":[""]} null.ogg
+
+[{ "sound": "moren4.ogg","keyword":["没有准备好","没有","没有好","没","等等"],"var":"flag2.ogg"},{ "sound": "one-2-1.ogg","keyword": [""],"var":"flag2-1.ogg"}]
+flag2.ogg {"null.ogg":[""]} null.ogg
+flag2.ogg $wait 5000 [{}]
+flag2.ogg one-2-1.ogg
+{"hudong2-1.ogg":["乌鸦","乌鸦面包店"],"one-2-2.ogg":[""]} null.ogg
+hudong2-1.ogg one-2-2.ogg
+
+moren.ogg
+$bgm ["background-music1.ogg"]
+[{ "sound": "moren4.ogg","keyword": ["没有准备好","没有","没有好","没"],"var":"flag3.ogg"},{ "sound":"one-3-1.ogg","keyword":[""],"var":"flag3-1.ogg"}]
+flag3.ogg {"null.ogg":[""]} null.ogg
+flag3.ogg $wait 5000 [{}]
+flag3.ogg  one-3-1.ogg
+$bgm off
+{"hudong3-1.ogg":["树","森林","鸟"],"one-3-2.ogg":[""]} null.ogg
+hudong3-1.ogg one-3-2.ogg
+
+[{ "sound": "moren4.ogg","keyword":["没有准备好","没有","没有好","没","等等"],"var":"flag4.ogg"},{ "sound": "one-4-1.ogg","keyword": [""],"var":"flag4-1.ogg"}]
+flag4.ogg {"null.ogg":[""]} null.ogg
+flag4.ogg $wait 5000 [{}]
+flag4.ogg one-4-1.ogg
+{"null.ogg":[""]} null.ogg
+one-4-2.ogg
+{"hudong4-2.ogg":["这里"],"one-4-3.ogg":[""]} null.ogg
+hudong4-2.ogg one-4-3.ogg
+{"null.ogg":[""]} null.ogg
+one-4-4.ogg
+{"null.ogg":[""]} null.ogg
+one-4-5.ogg
+
+moren.ogg
+[{ "sound": "moren4.ogg","keyword": ["没有准备好","没有","没有好","没"],"var":"flag5.ogg"},{ "sound": "one-5-1.ogg","keyword":[""],"var":"flag5-1.ogg"}]
+flag5.ogg {"null.ogg":[""]} null.ogg
+flag5.ogg $wait 5000 [{}]
+flag5.ogg one-5-1.ogg
+{"hudong5-1.ogg":["爸爸"],"one-5-2.ogg":[""]} null.ogg
+hudong5-1.ogg one-5-2.ogg
+{"null.ogg":[""]} null.ogg
+one-5-3.ogg
+{"hudong5-3.ogg":["没有","不去"],"one-5-4.ogg":[""]} null.ogg
+hudong5-3.ogg one-5-4.ogg
+
+[{ "sound": "moren4.ogg","keyword":["没有准备好","没有","没有好","没","等等"],"var":"flag6.ogg"},{ "sound": "one-6-1.ogg","keyword": [""],"var":"flag6-1.ogg"}]
+flag6.ogg {"null.ogg":[""]} null.ogg
+flag6.ogg $wait 5000 [{}]
+flag6.ogg one-6-1.ogg
+{"null.ogg":[""]} null.ogg
+$bgm ["background-music2.ogg"]
+one-6-2.ogg
+{"hudong6-2.ogg":["烤面包"],"one-6-3.ogg":[""]} null.ogg
+hudong6-2.ogg one-6-3.ogg
+{"hudong6-3.ogg":["面包"],"one-6-4.ogg":[""]} null.ogg
+hudong6-3.ogg one-6-4.ogg
+
+moren.ogg
+[{ "sound": "moren4.ogg","keyword": ["没有准备好","没有","没有好","没"],"var":"flag7.ogg"},{ "sound": "one-7-1.ogg","keyword":[""],"var":"flag7-1.ogg"}]
+flag7.ogg {"null.ogg":[""]} null.ogg
+flag7.ogg $wait 5000 [{}]
+flag7.ogg one-7-1.ogg
+{"null.ogg":[""]} null.ogg
+one-7-2.ogg
+
+[{ "sound": "moren4.ogg","keyword":["没有准备好","没有","没有好","没","等等"],"var":"flag8.ogg"},{ "sound": "one-8-1.ogg","keyword": [""],"var":"flag8-1.ogg"}]
+flag8.ogg {"null.ogg":[""]} null.ogg
+flag8.ogg $wait 5000 [{}]
+flag8.ogg one-8-1.ogg
+{"null.ogg":[""]} null.ogg
+one-8-2.ogg
+{"hudong8-2.ogg":["做面包"],"one-8-3.ogg":[""]} null.ogg
+hudong8-3.ogg one-8-3.ogg
+
+[{ "sound": "moren4.ogg","keyword":["没有准备好","没有","没有好","没","等等"],"var":"flag9.ogg"},{ "sound": "one-9-1.ogg","keyword": [""],"var":"flag9-1.ogg"}]
+flag9.ogg {"null.ogg":[""]} null.ogg
+flag9.ogg $wait 5000 [{}]
+flag9.ogg one-9-1.ogg
+{"null.ogg":[""]} null.ogg
+one-9-2.ogg
+
+moren.ogg
+[{ "sound": "moren4.ogg","keyword": ["没有准备好","没有","没有好","没"],"var":"flag10.ogg"},{ "sound": "one-10-1.ogg","keyword":[""],"var":"flag10-1.ogg"}]
+flag10.ogg {"null.ogg":[""]} null.ogg
+flag10.ogg $wait 5000 [{}]
+flag10.ogg one-10-1.ogg
+{"hudong10-1.ogg":["买面包","面包"],"one-10-2.ogg":[""]} null.ogg
+hudong10-1.ogg one-10-2.ogg
+{"null.ogg":[""]} null.ogg
+one-10-3.ogg
+
+[{ "sound": "moren4.ogg","keyword": ["没有准备好","没有","没有好","没"],"var":"flag11.ogg"},{ "sound": "one-11-1.ogg","keyword":[""],"var":"flag11-1.ogg"}]
+flag11.ogg {"null.ogg":[""]} null.ogg
+flag11.ogg $wait 5000 [{}]
+flag11.ogg one-11-1.ogg
+{"hudong11-1-1.ogg":["熊猫"],"hudong11-1-2.ogg":["雪人"],"hudong11-1-3.ogg":["小狗"],"hudong11-1-4.ogg":["星星"],"hudong11-1-5.ogg":["草莓"],"hudong11-1-6.ogg":["菠萝"],"hudong11-1-7.ogg":["兔子"],"hudong11-1-8.ogg":["蜗牛"]} null.ogg
+one-11-2.ogg
+
+[{ "sound": "moren4.ogg","keyword":["没有准备好","没有","没有好","没","等等"],"var":"flag12.ogg"},{ "sound": "one-12-1.ogg","keyword": [""],"var":"flag12-1.ogg"}]
+flag12.ogg {"null.ogg":[""]} null.ogg
+flag12.ogg $wait 5000 [{}]
+flag12.ogg one-12-1.ogg
+$bgm off
+
+$bgm ["background-music3.ogg"]
+[{ "sound": "moren4.ogg","keyword":["没有准备好","没有","没有好","没","等等"],"var":"flag13.ogg"},{ "sound": "one-13-1.ogg","keyword": [""],"var":"flag13-1.ogg"}]
+one-13-1.ogg {"null.ogg":[""]} null.ogg
+flag13.ogg {"null.ogg":[""]} null.ogg
+flag13.ogg $wait 5000 [{}]
+flag13.ogg one-13-1.ogg
+
+[{ "sound": "moren4.ogg","keyword":["没有准备好","没有","没有好","没","等等"],"var":"flag14.ogg"},{ "sound": "one-14-1.ogg","keyword": [""],"var":"flag14-1.ogg"}]
+flag14.ogg {"null.ogg":[""]} null.ogg
+flag14.ogg $wait 5000 [{}]
+flag14.ogg one-14-1.ogg
+
+[{ "sound": "moren4.ogg","keyword":["没有准备好","没有","没有好","没","等等"],"var":"flag15.ogg"},{ "sound": "one-15-1.ogg","keyword": [""],"var":"flag15-1.ogg"}]
+flag15.ogg {"null.ogg":[""]} null.ogg
+flag15.ogg $wait 5000 [{}]
+flag15.ogg one-15-1.ogg
+{"null.ogg":[""]} null.ogg
+one-15-2.ogg
+
+[{ "sound": "moren4.ogg","keyword": ["没有准备好","没有","没有好","没","等等"],"var":"flag16.ogg"},{ "sound": "one-16-1.ogg","keyword":[""],"var":"flag16-1.ogg"}]
+flag16.ogg {"null.ogg":[""]} null.ogg
+flag16.ogg $wait 5000 [{}]
+flag16.ogg one-16-1.ogg
+{"null.ogg":[""]} null.ogg
+one-16-2.ogg
+{"null.ogg":[""]} null.ogg
+one-16-3.ogg
+{"null.ogg":[""]} null.ogg
+one-16-4.ogg
+$bgm off
+
+[{ "sound": "moren4.ogg","keyword":["没有准备好","没有","没有好","没","等等"],"var":"flag17.ogg"},{ "sound": "one-end-1.ogg","keyword": [""],"var":"flag17-1.ogg"}]
+flag17.ogg {"null.ogg":[""]} null.ogg
+flag17.ogg $wait 5000 [{}]
+flag17.ogg one-end-1.ogg
+{"bg":["background-music4.ogg"]}
+{"null.ogg":[""]} null.ogg
+one-end-2.ogg
+{"null.ogg":[""]} null.ogg
+
+$paragraph
+two-begin.ogg
+two-1.ogg
+two-2.ogg
+two-3.ogg
+two-4.ogg
+two-5.ogg
+two-6.ogg
+two-7.ogg
+two-8.ogg
+two-9.ogg
+two-10.ogg
+two-11.ogg
+two-12.ogg
+two-13.ogg
+two-14.ogg
+two-end.ogg
+
+$paragraph
+{"sound":["que-1.ogg","que-2.ogg"]}
+{"null.ogg":[""]} null.ogg
+{"sound":["que-3.ogg","que-4.ogg"]}
+{"null.ogg":[""]} null.ogg
+{"sound":["que-5.ogg","que-6.ogg"]}
+{"null.ogg":[""]} null.ogg
+
+this-story-ending.ogg

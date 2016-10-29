@@ -1,0 +1,18 @@
+{
+  "context-menu": {
+    "atom-text-editor": [{
+      "label": "Parsing",
+      "command": "Parsing"
+    }]
+  },
+  "menu": [{
+    "label": "Packages",
+    "submenu": [{
+      "label": "parsing",
+      "submenu": [{
+        "label": "Toggle",
+        "command": "Parsing"
+      }]
+    }]
+  }]
+}
