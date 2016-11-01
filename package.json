@@ -1,7 +1,6 @@
 {
   "_args": [
-    [
-      {
+    [{
         "raw": "/tmp/d-116929-13884-17aje7c/package.tgz",
         "scope": null,
         "escapedName": null,
@@ -12,8 +11,7 @@
       },
       "/tmp/apm-install-dir-116929-13884-bm58em"
     ],
-    [
-      {
+    [{
         "raw": "/tmp/d-116101-16287-1dzjusa/package.tgz",
         "scope": null,
         "escapedName": null,
@@ -76,7 +74,7 @@
   "homepage": "https://github.com/tosone/atom-parsing#readme",
   "keywords": [],
   "license": "MIT",
-  "main": "./lib/index",
+  "main": "./lib/parsing/test/atom-parsing",
   "name": "parsing",
   "optionalDependencies": {},
   "readme": "# parsing package\n\nA short description of your package.\n\n![A screenshot of your package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)\n",

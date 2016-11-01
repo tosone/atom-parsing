@@ -1,3 +1,15 @@
 [{"cmd":"button","button":{"D":{"sound":{"sound":"Hudong6.ogg"}},"E":{"sound":{"sound":"Hudong5.ogg"}},"no":{"sound":{"sound":"Hudong7.ogg"}}}}]
 {"a.ogg":["是"],"b.ogg":["否"]} a.ogg
 [{ "sound": "moren4.ogg","keyword":["没有准备好","没有","没有好","没","等等"],"var":"flag2.ogg"},{ "sound": "one-2-1.ogg","default":true,"keyword": ["但是"],"var":"flag2-1.ogg"}]
+[{"cmd":"button","button":{"D":{"sound":{"sound":"Hudong6.ogg"}},"E":{"sound":{"sound":"Hudong5.ogg"}},"no":{"sound":{"sound":"Hudong7.ogg"}}}}]
+{"a.ogg":["是"],"b.ogg":["否"]} a.ogg
+[{ "sound": "moren4.ogg","keyword":["没有准备好","没有","没有好","没","等等"],"var":"flag2.ogg"},{ "sound": "one-2-1.ogg","default":true,"keyword": ["但是"],"var":"flag2-1.ogg"}]
+[{"cmd":"button","button":{"D":{"sound":{"sound":"Hudong6.ogg"}},"E":{"sound":{"sound":"Hudong5.ogg"}},"no":{"sound":{"sound":"Hudong7.ogg"}}}}]
+{"a.ogg":["是"],"b.ogg":["否"]} a.ogg
+[{ "sound": "moren4.ogg","keyword":["没有准备好","没有","没有好","没","等等"],"var":"flag2.ogg"},{ "sound": "one-2-1.ogg","default":true,"keyword": ["但是"],"var":"flag2-1.ogg"}]
+[{"cmd":"button","button":{"D":{"sound":{"sound":"Hudong6.ogg"}},"E":{"sound":{"sound":"Hudong5.ogg"}},"no":{"sound":{"sound":"Hudong7.ogg"}}}}]
+{"a.ogg":["是"],"b.ogg":["否"]} a.ogg
+[{ "sound": "moren4.ogg","keyword":["没有准备好","没有","没有好","没","等等"],"var":"flag2.ogg"},{ "sound": "one-2-1.ogg","default":true,"keyword": ["但是"],"var":"flag2-1.ogg"}]
+[{"cmd":"button","button":{"D":{"sound":{"sound":"Hudong6.ogg"}},"E":{"sound":{"sound":"Hudong5.ogg"}},"no":{"sound":{"sound":"Hudong7.ogg"}}}}]
+{"a.ogg":["是"],"b.ogg":["否"]} a.ogg
+[{ "sound": "moren4.ogg","keyword":["没有准备好","没有","没有好","没","等等"],"var":"flag2.ogg"},{ "sound": "one-2-1.ogg","default":true,"keyword": ["但是"],"var":"flag2-1.ogg"}]
