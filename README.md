@@ -2,4 +2,4 @@
 
 Press `alt+x` review `manifest.rc` file for test.
 
-![screenshot](./demo.gif)
+![screenshot](https://github.com/tosone/atom-parsing/raw/master/demo.gif)
