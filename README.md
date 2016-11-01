@@ -1,4 +1,4 @@
-# parsing package
+# parsing
 
 Press `alt+x` review `manifest.rc` file for test.
 
