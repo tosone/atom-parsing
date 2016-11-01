@@ -1,6 +1,7 @@
 {
   "_args": [
-    [{
+    [
+      {
         "raw": "/tmp/d-116929-13884-17aje7c/package.tgz",
         "scope": null,
         "escapedName": null,
@@ -11,7 +12,8 @@
       },
       "/tmp/apm-install-dir-116929-13884-bm58em"
     ],
-    [{
+    [
+      {
         "raw": "/tmp/d-116101-16287-1dzjusa/package.tgz",
         "scope": null,
         "escapedName": null,
@@ -83,5 +85,5 @@
     "type": "git",
     "url": "git+https://github.com/tosone/atom-parsing.git"
   },
-  "version": "0.0.7"
+  "version": "0.0.8"
 }
