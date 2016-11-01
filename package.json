@@ -1,6 +1,6 @@
 {
   "name": "parsing",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Test for `manifest.rc` file",
   "homepage": "https://github.com/tosone/atom-parsing#readme",
   "keywords": [
