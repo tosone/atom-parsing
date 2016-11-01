@@ -1,58 +1,18 @@
 {
-  "_args": [
-    [
-      {
-        "raw": "/tmp/d-116929-13884-17aje7c/package.tgz",
-        "scope": null,
-        "escapedName": null,
-        "name": null,
-        "rawSpec": "/tmp/d-116929-13884-17aje7c/package.tgz",
-        "spec": "/tmp/d-116929-13884-17aje7c/package.tgz",
-        "type": "local"
-      },
-      "/tmp/apm-install-dir-116929-13884-bm58em"
-    ],
-    [
-      {
-        "raw": "/tmp/d-116101-16287-1dzjusa/package.tgz",
-        "scope": null,
-        "escapedName": null,
-        "name": null,
-        "rawSpec": "/tmp/d-116101-16287-1dzjusa/package.tgz",
-        "spec": "/tmp/d-116101-16287-1dzjusa/package.tgz",
-        "type": "local"
-      },
-      "/tmp/apm-install-dir-116101-16287-wqe9v3"
-    ]
+  "name": "parsing",
+  "version": "0.0.8",
+  "description": "Test for `manifest.rc` file",
+  "homepage": "https://github.com/tosone/atom-parsing#readme",
+  "keywords": [
+    "parsing",
+    "manifest"
   ],
-  "_from": "../d-116101-16287-1dzjusa/package.tgz",
-  "_id": "parsing@0.0.7",
-  "_inCache": true,
-  "_installable": true,
-  "_location": "/parsing",
-  "_phantomChildren": {},
-  "_requested": {
-    "raw": "/tmp/d-116101-16287-1dzjusa/package.tgz",
-    "scope": null,
-    "escapedName": null,
-    "name": null,
-    "rawSpec": "/tmp/d-116101-16287-1dzjusa/package.tgz",
-    "spec": "/tmp/d-116101-16287-1dzjusa/package.tgz",
-    "type": "local"
-  },
-  "_requiredBy": [
-    "#USER"
-  ],
-  "_resolved": "file:../d-116101-16287-1dzjusa/package.tgz",
-  "_shasum": "9c899bf8b2dce6efe6607ce757b1801afcd61c6a",
-  "_shrinkwrap": null,
-  "_spec": "/tmp/d-116101-16287-1dzjusa/package.tgz",
-  "_where": "/tmp/apm-install-dir-116101-16287-wqe9v3",
-  "activationCommands": {
-    "atom-workspace": "Parsing"
-  },
-  "bugs": {
-    "url": "https://github.com/tosone/atom-parsing/issues"
+  "main": "./lib/parsing/test/atom-parsing",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tosone/atom-parsing.git"
   },
   "dependencies": {
     "atom-message-panel": "^1.2.7",
@@ -67,23 +27,5 @@
     "mqtt": "^2.0.1",
     "redis": "^2.6.2",
     "uuid": "^2.0.3"
-  },
-  "description": "A short description of your package",
-  "devDependencies": {},
-  "engines": {
-    "atom": ">=1.0.0 <2.0.0"
-  },
-  "homepage": "https://github.com/tosone/atom-parsing#readme",
-  "keywords": [],
-  "license": "MIT",
-  "main": "./lib/parsing/test/atom-parsing",
-  "name": "parsing",
-  "optionalDependencies": {},
-  "readme": "# parsing package\n\nA short description of your package.\n\n![A screenshot of your package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)\n",
-  "readmeFilename": "README.md",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/tosone/atom-parsing.git"
-  },
-  "version": "0.0.8"
+  }
 }
