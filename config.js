@@ -9,11 +9,11 @@ const redis = require('redis');
 const mqtt = require('mqtt');
 const pinyin = require('convertPinyin');
 
-const redis1 = redis.createClient({ 'db': 1 });
-const redis3 = redis.createClient({ 'db': 3 });
-const redis8 = redis.createClient({ 'db': 8 });
+const redis1 = redis.createClient({ 'db': 1, host: '120.27.94.189' });
+const redis3 = redis.createClient({ 'db': 3, host: '120.27.94.189' });
+const redis8 = redis.createClient({ 'db': 8, host: '120.27.94.189' });
 
-let mqttClient = mqtt.connect('mqtt://localhost:1883');
+let mqttClient = mqtt.connect('mqtt://120.27.94.189:1883');
 
 mqttClient.on('connect', () => {
   mqttClient.subscribe('#');
