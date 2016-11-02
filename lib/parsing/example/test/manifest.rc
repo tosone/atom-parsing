@@ -1,15 +1,22 @@
-[{"cmd":"button","button":{"D":{"sound":{"sound":"Hudong6.ogg"}},"E":{"sound":{"sound":"Hudong5.ogg"}},"no":{"sound":{"sound":"Hudong7.ogg"}}}}]
-{"a.ogg":["是"],"b.ogg":["否"]} a.ogg
-[{ "sound": "moren4.ogg","keyword":["没有准备好","没有","没有好","没","等等"],"var":"flag2.ogg"},{ "sound": "one-2-1.ogg","default":true,"keyword": ["但是"],"var":"flag2-1.ogg"}]
-[{"cmd":"button","button":{"D":{"sound":{"sound":"Hudong6.ogg"}},"E":{"sound":{"sound":"Hudong5.ogg"}},"no":{"sound":{"sound":"Hudong7.ogg"}}}}]
-{"a.ogg":["是"],"b.ogg":["否"]} a.ogg
-[{ "sound": "moren4.ogg","keyword":["没有准备好","没有","没有好","没","等等"],"var":"flag2.ogg"},{ "sound": "one-2-1.ogg","default":true,"keyword": ["但是"],"var":"flag2-1.ogg"}]
-[{"cmd":"button","button":{"D":{"sound":{"sound":"Hudong6.ogg"}},"E":{"sound":{"sound":"Hudong5.ogg"}},"no":{"sound":{"sound":"Hudong7.ogg"}}}}]
-{"a.ogg":["是"],"b.ogg":["否"]} a.ogg
-[{ "sound": "moren4.ogg","keyword":["没有准备好","没有","没有好","没","等等"],"var":"flag2.ogg"},{ "sound": "one-2-1.ogg","default":true,"keyword": ["但是"],"var":"flag2-1.ogg"}]
-[{"cmd":"button","button":{"D":{"sound":{"sound":"Hudong6.ogg"}},"E":{"sound":{"sound":"Hudong5.ogg"}},"no":{"sound":{"sound":"Hudong7.ogg"}}}}]
-{"a.ogg":["是"],"b.ogg":["否"]} a.ogg
-[{ "sound": "moren4.ogg","keyword":["没有准备好","没有","没有好","没","等等"],"var":"flag2.ogg"},{ "sound": "one-2-1.ogg","default":true,"keyword": ["但是"],"var":"flag2-1.ogg"}]
-[{"cmd":"button","button":{"D":{"sound":{"sound":"Hudong6.ogg"}},"E":{"sound":{"sound":"Hudong5.ogg"}},"no":{"sound":{"sound":"Hudong7.ogg"}}}}]
-{"a.ogg":["是"],"b.ogg":["否"]} a.ogg
-[{ "sound": "moren4.ogg","keyword":["没有准备好","没有","没有好","没","等等"],"var":"flag2.ogg"},{ "sound": "one-2-1.ogg","default":true,"keyword": ["但是"],"var":"flag2-1.ogg"}]
+begin-title.ogg
+"/home/root/userdata/apps/story/before_interaction.ogg"
+
+Begin1.ogg
+Begin1.ogg Button1.ogg
+Button1.ogg [{"cmd":"button","button":{"E":{"sound":{"sound":"Hudong1.ogg"}},"D":{"sound":{"sound":"Hudong1.ogg"}},"no":{"sound":{"sound":"Hudong2.ogg"}}}}]
+{"sound":"Begin2.ogg","output":[{"LED":[{"start":"00'30","mode":"cBreathRan","light":"b","option":{"color":"#FF0000"}}]}]}
+Begin2.ogg Button2.ogg
+[{"cmd":"button","button":{"C":{"sound":{"sound":"Hudong3.ogg"},"LED":{"mode":"cBreathRan","light":"b","start":"00'05","option":{"color":"#FF0000"}}},"no":{"sound":{"sound":"Hudong4.ogg"}}}}]
+{ "sound":"Begin3.ogg","output": [{"LED": [{"start":"00'39", "mode":"cBreathRan", "light":"b","option":{ "color": "#FF0000"}}]}]}
+Begin3.ogg Button3.ogg
+[{"cmd":"button","button":{"C":{"sound":{"sound":"Hudong3.ogg","break":"true"},"LED":{"mode":"cBreathRan","light":"b","option":{"color":"#FF0000"}}},"no":{"sound":{"sound":"Hudong4.ogg"}}}}]
+{ "sound":"Question.ogg","output": [{"LED": [{"start":"00'07", "mode":"cBreathRan", "light":"b","option":{ "color":"#FF0000"}}]}]}
+question-cues.ogg
+question-cues.ogg [{"preSound":"changjing1.ogg","sound":"End1.ogg","keyword":["1","一"],"output":{"LED":[{"start":"00'25","mode":"cBreathRan","light":"ab","option":{"color":"#FF0000"}},{"start":"00'54","mode":"off","light":"ab"}]}},{"preSound":"changjing2.ogg","sound":"End2.ogg","keyword":["2","二"],"output":{"LED":[{"start":"00'23","mode":"cBreathRan","light":"ab","option":{"color":"#FF0000"}},{"start":"00'48","mode":"off","light":"ab"}]}},{"sound":"moren.ogg","default":true}]
+moren.ogg End1.ogg
+"/home/root/userdata/apps/story/share.ogg"
+"/home/root/userdata/apps/story/share.ogg" {"/home/root/userdata/apps/story/yes-share.ogg":["好","要","分享","可以"],"/home/root/userdata/apps/story/no-share.ogg":["不","不要","不分享","不好","不可以"]} "/home/root/userdata/apps/story/yes-share.ogg"
+
+end-title.ogg
+
+### [{"preSound":"changjing1.ogg","sound":"End1.ogg","keyword":["1","一"],"output":{"LED":[{"start":"00'25","mode":"cBreathRan","light":"ab","option":{"color":"#FF0000"}},{"start":"00'54","mode":"off","light":"ab"}]}},{"preSound":"changjing2.ogg","sound":"End2.ogg","keyword":["2","二"],"output":{"LED":[{"start":"00'23","mode":"cBreathRan","light":"ab","option":{"color":"#FF0000"}},{"start":"00'48","mode":"off","light":"ab"}]}},{"sound":"moren.ogg","default":true}]
