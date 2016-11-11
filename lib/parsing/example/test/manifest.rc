@@ -1,2 +1,1 @@
-a.ogg
-a.ogg [{"preSound":"changjing1.ogg","sound":"A1.ogg","keyword":["可以","是","好","厕所","找好朋友"],"output":{"sound":[{"sound":"dong.ogg","start":"0'16 ","break":true},{"sound":"dong.ogg","start":"0'34 ","break":true}]}},{"preSound":"changjing2.ogg","sound":"B1.ogg","keyword":["在外面","不找好朋友","隐秘的地方"]},{"sound":"moren1.ogg","keyword":["我不知道"],"default":true}]
+{"sound":"B2.ogg","output":[{"LED":[{"start":"00'38","mode":"sLightOn","light":"ab","option":{"color":"#00FF00"}},{"start":"00'3","mode":"off","light":"ab"}],"sound":[{"sound":"duang.ogg","start":"2'20","break":true}]}]}
