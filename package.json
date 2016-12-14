@@ -7,7 +7,7 @@
     "type": "git",
     "url": "git+https://github.com/tosone/atom-parsing.git"
   },
-  "version": "1.0.10",
+  "version": "1.0.11",
   "bugs": {
     "url": "https://github.com/tosone/atom-parsing/issues"
   },
