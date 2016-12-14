@@ -1,26 +1,8 @@
 # Parsing
 
-Example: ``
-
-## 目录结构
-
-- check 模式检查模块
-  - pattern
-  - checks.js 检测脚本是否正确
-  - index.js 抛出所有的模式匹配检查
-- handler 处理模块
-- util 工具模块
-  - button 按键匹配模块
-    - index.js 匹配按键和keycode之间的关系
-    - config.js 关于玩具按键和keycode之间的mapping表
-  - LED LED模块
-  - snapshot.js 故事快照功能，以及记录故事的状态
-  - timer.js 故事的计时功能
-- autotest.js 自动测试工具
-- test.js 单步测试工具
-- parsing.js 解释引擎的流程控制主要部分
-- index.js 入口文件，事件分发，将mqtt消息分发至内部为event
-- config.js 配置
+## 启动
+- `yarn`
+- `node index.js`
 
 ## 逻辑处理
 - 对于每一种模式都应该有一个入口初始值的调整，确定开始播放的位置

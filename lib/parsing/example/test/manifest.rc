@@ -1,1 +1,2 @@
-{"sound":"B2.ogg","output":[{"LED":[{"start":"00'38","mode":"sLightOn","light":"ab","option":{"color":"#00FF00"}},{"start":"00'3","mode":"off","light":"ab"}],"sound":[{"sound":"duang.ogg","start":"2'20","break":true}]}]}
+1.ogg
+2.ogg

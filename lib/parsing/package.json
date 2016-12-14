@@ -4,11 +4,27 @@
   "description": "Example: ``",
   "main": "index.js",
   "directories": {
-    "example": "example"
+    "example": "example",
+    "test": "test"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Tosone",
-  "license": "MIT"
+  "repository": {
+    "type": "git",
+    "url": "ssh://guoyaning@git.nane.cn:29418/hardware/thunder/firmware/parsing"
+  },
+  "keywords": [],
+  "author": "tosone <i@tosiney.com> (http://tosiney.com)",
+  "license": "MIT",
+  "dependencies": {
+    "betterMatch": "^1.0.5",
+    "bluebird": "^3.4.6",
+    "colors": "^1.1.2",
+    "eventemitter2": "^2.2.1",
+    "lodash": "^4.17.2",
+    "moment": "^2.17.1",
+    "nodecontainer-sdk": "^1.0.4",
+    "uuid": "^3.0.1"
+  }
 }
