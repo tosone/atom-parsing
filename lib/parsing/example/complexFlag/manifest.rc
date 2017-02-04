@@ -1,0 +1,6 @@
+1.ogg
+2.ogg
+{"mode":"and","complexFlagList":["1.ogg","2.ogg"]} 3.ogg
+{"mode":"and","unvar":true,"complexFlagList":["1.ogg","2.ogg"]} 3.ogg
+{"mode":"or","complexFlagList":["1.ogg","2.ogg"]} 3.ogg
+{"mode":"or","unvar":true,"complexFlagList":["1.ogg","2.ogg"]} 3.ogg

@@ -4,22 +4,22 @@
     "type": "git",
     "url": "git+https://github.com/tosone/atom-parsing.git"
   },
-  "version": "1.1.3",
+  "version": "1.1.4",
   "bugs": {
     "url": "https://github.com/tosone/atom-parsing/issues"
   },
   "dependencies": {
-    "atom-message-panel": "^1.2.7",
-    "betterMatch": "^1.0.5",
-    "bluebird": "^3.4.6",
+    "atom-message-panel": "^1.3.0",
+    "betterMatch": "^1.0.9",
+    "bluebird": "^3.4.7",
     "colors": "^1.1.2",
     "convertPinyin": "^1.0.4",
-    "fs-extra": "^1.0.0",
+    "fs-extra": "^2.0.0",
     "glob": "^7.1.1",
-    "lodash": "^4.17.2",
+    "lodash": "^4.17.4",
     "moment": "^2.17.1",
-    "mqtt": "^2.1.3",
-    "redis": "^2.6.3",
+    "mqtt": "^2.3.1",
+    "redis": "^2.6.5",
     "uuid": "^3.0.1"
   },
   "description": "Test for `manifest.rc` file",

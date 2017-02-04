@@ -1,1 +1,2 @@
-{ "sound":"Begin2.ogg","output": [{"LED": [{"start":"00'17", "mode":"cBreathRan", "light":"ab","option":{ "color": "#FF0000"}},{"start":"0'21", "mode":"off", "light":"ab"}]}]}
+a.ogg
+{"sound":"begin.ogg","backline": "-1", "output":[{"LED":[{"start":"00'02","mode":"allStar","light":"ab","option":{"colors":"FF0000"}}]}]}

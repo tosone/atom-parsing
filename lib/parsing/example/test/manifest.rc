@@ -1,2 +1,1 @@
-1.ogg
-2.ogg
+[{"cmd":"nfc","maxNfc":5000,"interactionBgm":"dida.ogg","nfc":[{"mode":"and","nfc":["字母卡o","字母卡e","字母卡a"],"output":{"sound": {"sound":"xiuxiu.ogg","var":"flag1-win.ogg"} }},{"mode": "wrong", "output": {"sound": {"sound": "xiuxiu.ogg","var":"flag1-failure.ogg"}}},{"mode": "no","output": {"sound": {"sound": "xiuxiu.ogg","var":"flag1-failure.ogg"}}}]}]
